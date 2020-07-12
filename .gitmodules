@@ -1,0 +1,33 @@
+[submodule "library"]
+	path = library
+	url = https://gitlab.cs.washington.edu/cse332-20wi-students/library.git
+[submodule "data"]
+	path = data
+	url = https://gitlab.cs.washington.edu/cse332-20wi-students/data.git
+[submodule "seamcarving"]
+	path = seamcarving
+	url = https://github.com/bellaroseee/DSP-seamcarving
+[submodule "pq"]
+	path = pq
+	url = https://github.com/bellaroseee/DSP-pq
+[submodule "para"]
+	path = para
+	url = https://github.com/bellaroseee/DSP-para
+[submodule "pointset"]
+	path = pointset
+	url = https://github.com/bellaroseee/DSP-pointset
+[submodule "intlist"]
+	path = intlist
+	url = https://github.com/bellaroseee/DSP-intlist
+[submodule "huskymaps"]
+	path = huskymaps
+	url = https://github.com/bellaroseee/DSP-huskymaps
+[submodule "deque"]
+	path = deque
+	url = https://github.com/bellaroseee/DSP-deque
+[submodule "autocomplete"]
+	path = autocomplete
+	url = https://github.com/bellaroseee/DSP-autocomplete
+[submodule "astar"]
+	path = astar
+	url = https://github.com/bellaroseee/DSP-astar
